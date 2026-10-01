@@ -1,0 +1,3 @@
+# uploads/
+This directory stores uploaded item images managed by Multer.
+It is created automatically by the backend. Do not delete this folder.
